@@ -3,6 +3,11 @@ Creation Terminal Is A Batch Project But Its Still Under devlopment So Please Re
 Here is a masterfully blended, comprehensive introduction for your **[Creation-Terminal](https://github.com/rayyanmohdkhan/Creation-Terminal)** repository. This version takes the history, deprecation notices, and exciting new customizability features from versions V0.0 through V0.2 and consolidates them into a professional, highly readable `README.md`.
 
 ---
+# The New Version Leaks
+The New Vesion Of Creation Terminal Is Currently Being Devloped On C++
+And The New Project Codename- Command Prompt ++ /shourtfrom- cmd++ is being
+Changed To New Codename- Command Multiply /shourtfrom- C Multiply.
+---
 
 # 🚀 Creation-Terminal (V0.2 Pre-release)
 
