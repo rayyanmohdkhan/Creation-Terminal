@@ -9,7 +9,7 @@ Here is a masterfully blended, comprehensive introduction for your **[Creation-T
 Welcome to **Creation-Terminal**, an open-source, custom command-line interface environment built entirely using Windows Batch script. Designed to elevate the classic terminal experience, it offers modular flexibility, an intuitive layout, and a growing ecosystem for custom terminal tools.
 
 > ⚠️ **Project Status & Compatibility**
-> Creation-Terminal is actively under development and optimized exclusively for **Windows** environments. Future sibling projects—like the upcoming **Command Prompt++**—aim to expand device accessibility down the line.
+> Creation-Terminal is actively under development and optimized exclusively for **Windows** environments. Future sibling projects—like the upcoming **Command Prompt++ Is Now Changing The Name To Command* Or C* **—aim to expand device accessibility down the line.
 
 ---
 
