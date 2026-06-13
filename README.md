@@ -6,7 +6,7 @@ Here is a masterfully blended, comprehensive introduction for your **[Creation-T
 # The New Version Leaks
 The New Vesion Of Creation Terminal Is Currently Being Devloped On C++
 And The New Project Codename- Command Prompt ++ /shourtfrom- cmd++ is being
-Changed To New Codename- Command Multiply /shourtfrom- C Multiply.
+Changed To New Codename- Command Multiply /shourtfrom- C Multiply Now The New File Exetension Is Terminal.exe And The Creation Terminal Library Tools terminal library tools.libtools Libtools Application Exetension Is Open Source.
 ---
 
 # 🚀 Creation-Terminal (V0.2 Pre-release)
